@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ihyeongseob/Desktop/인천대/2학년/1학기/데이터구조/정리2",
+      "program": "/Users/ihyeongseob/Desktop/인천대/2학년/1학기/데이터구조/정리2/build/Debug/outDebug"
+    }
+  ]
+}
