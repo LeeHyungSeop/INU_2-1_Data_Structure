@@ -1,0 +1,637 @@
+m X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(1,0)
+  X      X  X  X
+m X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(2,0)
+  X      X  X  X
+  X  X  X      X
+m X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(3,0)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+m X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(4,0)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+m X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(5,0)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+m X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(6,0)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+m X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(7,0)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+m X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(8,0)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+m X  X  X  XX  
+      X      X  c 
+
+(9,0)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+m     X      X  c 
+
+(9,1)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+  m   X      X  c 
+
+(9,2)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+    m X      X  c 
+
+(8,2)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  Xm X  X  XX  
+      X      X  c 
+
+(7,2)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  Xm X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(6,2)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  Xm X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(5,2)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  Xm X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(4,2)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  Xm X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(3,2)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  Xm X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(2,2)
+  X      X  X  X
+  X  X  X      X
+  Xm X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(1,2)
+  X      X  X  X
+  Xm X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(0,2)
+  Xm     X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(0,3)
+  X  m   X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(0,4)
+  X    m X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(1,4)
+  X      X  X  X
+  X  Xm X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(2,4)
+  X      X  X  X
+  X  X  X      X
+  X  Xm X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(3,4)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  Xm X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(4,4)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  Xm X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(5,4)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  Xm X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(6,4)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  Xm X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(7,4)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  Xm X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(8,4)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  Xm X  XX  
+      X      X  c 
+
+(9,4)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      Xm     X  c 
+
+(9,5)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X  m   X  c 
+
+(9,6)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X    m X  c 
+
+(8,6)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  Xm XX  
+      X      X  c 
+
+(7,6)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  Xm X    
+  X  X  X  XX  
+      X      X  c 
+
+(6,6)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  Xm X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(5,6)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  Xm X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(4,6)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  Xm X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(3,6)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  Xm X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(2,6)
+  X      X  X  X
+  X  X  X      X
+  X  X  Xm X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(1,6)
+  X      X  X  X
+  X  X  Xm     X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(1,7)
+  X      X  X  X
+  X  X  X  m   X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(1,8)
+  X      X  X  X
+  X  X  X    m X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(2,8)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  Xm X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(3,8)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  Xm   
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(4,8)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  Xm X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(5,8)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  Xm X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(6,8)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  Xm X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  c 
+
+(7,8)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  Xm   
+  X  X  X  XX  
+      X      X  c 
+
+(7,9)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  m 
+  X  X  X  XX  
+      X      X  c 
+
+(8,9)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XXm 
+      X      X  c 
+
+(9,9)
+  X      X  X  X
+  X  X  X      X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X  X
+  X  X  X  X    
+  X  X  X  XX  
+      X      X  m 
+
+쥐가 치즈를 찾았습니다!
+총 52의 weight가 발생하였습니다.

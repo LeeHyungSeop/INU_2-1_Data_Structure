@@ -1,18 +1,18 @@
 # INU 2학년 1학기 데이터구조. 핵심 내용 정리
 
-** Recursion **
+## Recursion ##
 
-** SLL **
+## SLL ##
 1. 노드 추가
 2. 전체 노드 삭제
 3. 전체 노드 출력
 4. 전체 노드 거꾸로 출력
-4. 숫자 하나 없애기
-5. 어떤 숫자 앞에 어떤 숫자 삽입
-6. 어떤 숫자 뒤에 어떤 숫자 삽입
-7. 전체노드 거꾸로 출력
+5. 숫자 하나 없애기
+6. 어떤 숫자 앞에 어떤 숫자 삽입
+7. 어떤 숫자 뒤에 어떤 숫자 삽입
+8. 전체노드 거꾸로 출력
 
-** DLL **
+## DLL ##
 1. 노드 추가
 2. 전체 노드 삭제
 3. 전체 노드 출력
@@ -21,12 +21,12 @@
 6. 어떤 숫자 뒤에 어떤 숫자 삽입
 7. 전체노드 거꾸로 출력
 
-** stack & queue **
+## stack & queue ##
 
-** stack DLL **
-** Queue DLL **
+## stack DLL ##
+## Queue DLL ##
 
-** BST **
+## BST ##
 1. 노드 추가
 2. 노드 찾기
 2. 총 노드의 개수
@@ -35,9 +35,9 @@
 5. BST 전체 출력 (inorder,preorder,postorder)
 6. 노드 삭제
 
-** Heap **
+## Heap ##
 
-** 정렬 **
+## 정렬 ##
 1. 선택정렬
 2. 삽입
 3. 버블
@@ -45,11 +45,11 @@
 5. merge
 6. quick
 
-** 그래프 **
+## 그래프 ##
 1. DFS
 2. BFS
 
-** Minimum Spanning Tree **
+## Minimum Spanning Tree ##
 addEdge(graph, 0, 1, 100);
 	addEdge(graph, 0, 2, 10);
 	addEdge(graph, 1, 2, 1);
@@ -61,7 +61,7 @@ addEdge(graph, 0, 1, 100);
 2. Kruskal algorithm
 
 
-** 최단경로 **
+## 최단경로 ##
 1. Dijkstra algorithm
 int graph[NV][NV] = {
 		//   0   1  2  3  4  5  6
@@ -84,7 +84,7 @@ int graph[NV][NV] = {
 		{9999,9999,9999,4,9999,20,9999}
 	};
 
-** Topological sort **
+## Topological sort ##
 int graph[NV][NV] = {
 
 		{0,0,1,1,0,0},    // 0에서 2가는 edge, 0에서 3가는 edge
@@ -96,12 +96,14 @@ int graph[NV][NV] = {
 
 	};
 
-** Hashing **
+## Hashing ##
 1. 노드추가
 2. 노드 제거
 3. 노드 검색
 4. hash table display
 --------------------------------------------
 
+## 20_Mouse_to_Cheese_HomeWork.c
 
-
+* 쥐가 치즈를 최단 경로로 찾아가는 문제 (Dijsktra algorithm)
+![](./20.gif)
